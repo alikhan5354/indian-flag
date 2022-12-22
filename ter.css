@@ -1,0 +1,17 @@
+.first{
+    background-color: orange;
+    width: 60%;
+    height: 200px;
+}
+.second{
+    background-color: white;
+    width: 60%;
+    height: 200px;
+    image-rendering: auto;
+}
+.third{
+
+    background-color: green;
+    width: 60%;
+    height: 200px;
+}
